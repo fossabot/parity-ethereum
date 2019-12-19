@@ -133,6 +133,5 @@ members = [
 	"chainspec",
 	"ethcore/wasm/run",
 	"evmbin",
-	"parity-clib",
 ]
 
