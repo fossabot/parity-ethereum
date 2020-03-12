@@ -1,4 +1,5 @@
 ![Parity Ethereum](docs/logo-parity-ethereum.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fparity-ethereum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fparity-ethereum?ref=badge_shield)
 
 <h2 align="center">The Fastest and most Advanced Ethereum Client.</h2>
 
@@ -385,3 +386,6 @@ An introduction has been provided in the ["So You Want to be a Core Developer" p
 ## 9. License <a id="chapter-009"></a>
 
 [LICENSE](./LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fparity-ethereum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffrankenstien-831%2Fparity-ethereum?ref=badge_large)
